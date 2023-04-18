@@ -26,4 +26,4 @@ To use the book recommender, enter the names of books you have read in the past,
 If you are interested in contributing to this project, feel free to fork the repository and submit a pull request. Please ensure that any code changes are accompanied by appropriate tests.
 
 ## License
-This project is licensed under the jaiswal-adarsh License - see the LICENSE file for details.
+This project is licensed under the ***jaiswal-adarsh*** License - see the LICENSE file for details.
